@@ -66,6 +66,7 @@ More open-source work: [AI Skills Pack](https://github.com/sprasapradip/ai-skill
 
 🌐 [sprasatechnicalsolution.com.np](https://sprasatechnicalsolution.com.np)
 ✉️ info@sprasatechnicalsolution.com.np
+📞 +977 9843944252 / 9843944253 · [WhatsApp](https://wa.me/9779843944252)
 👤 [Pradip Subedi](https://github.com/sprasapradip) · [pradipsubedi1.com.np](https://pradipsubedi1.com.np)
 
 <sub>© Sprasa Technical Solution Pvt. Ltd. Project images are demo data and belong to their respective clients.</sub>
